@@ -1,0 +1,41 @@
+/*Kristin Skelton 3/1/2015
+Styling for LocalStorageAssignment/index.html*/
+
+/*----------------General body styling---------------*/
+body {
+	margin: 0;
+	width:100%;
+}
+
+/*-------------------Button styling------------------*/
+button {
+	margin: 0 0 0 10px;
+}
+
+/*-------------------Header styling------------------*/
+#header {
+	border-bottom: 1px solid gray;
+	padding: 10px;
+	background: rgba(255,255,255,.5);
+	text-align: right;
+}
+
+#message {
+	display:inline;
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+label {
+	margin-left: 10px;
+}
+
+/*-------------------Main body styling------------------*/
+h1 {
+	padding: 40px;
+	font-weight: normal;
+	font-size: 50px;
+	text-align: center;
+}
+
